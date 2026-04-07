@@ -1,39 +1,37 @@
-## ABOUT viadee👋
+## About viadee 
+viadee is an independent IT consultancy based in Germany, with more than 250 dedicated professionals. Since 1994, we’ve partnered with organizations to design, develop and implement tailored IT solutions—always focusing on people, pragmatism, and sustainable impact.
 
-viadee Unternehmensberatung AG is a German IT company with more than 200 employees including our interns. Our company culture is dedicated to caring for each one individually, maximizing our potential. Applying this principle, we have come a long way since 1994 to offer great individual solutions to our customers.
+Our offices in Münster, Cologne, Dortmund, and in Hannover anchor us in the west and north of Germany, where we work closely with clients from diverse sectors, including banking, energy, logistics, public services, insurance, and more. We believe in regional proximity, enabling our consultants to maintain a healthy work-life balance and minimize travel—good for our teams, their families, and the environment.
 
-viadee currently has an office in Münster, as well as offices in Cologne and Dortmund. We focus on a regional customer base in North Rhine-Westphalia. Projects are seldom far away from our employees' home location, which allows us to proudly say that most of our consultants have the chance to sleep at home. This contributes to our flexibility, family lives as well as to our CO2 footprints.
+We value individuality and encourage every team member to contribute their expertise and ideas. Knowledge sharing is part of our DNA: we organize regular [events](https://www.viadee.de/events/), an online IT Conference calles [NAVIGATE Kongress](https://navigate-kongress.de/) and offer [seminars](https://www.viadee.de/seminare/) to foster continuous learning and exchange.
 
-The industry sectors in which our consultants are active include banking, electric power industry, trade, IT and service companies, logistics, public service, telecommunications, insurers, and supply plants.
+## What Drives Us
+We are passionate about technology and methods that create real value. Our teams work in agile environments, leveraging modern Java and cloud technologies (Spring Boot, Quarkus, Micronaut, REST, and more), but we remain open to whatever fits best—be it Python, R, or established standards.
 
-We emphasize knowledge exchange and hence established the [NAVIGATE](https://navigate-kongress.de) online conference (German) for this purpose. In 2022 it includes a number of [NAVIGATE Masterclasses](https://navigate-kongress.de/masterclasses/), that are often hands-on excerpts from our [seminar program](https://www.viadee.de/seminare).
+Open source is a cornerstone of our work. We actively contribute to the community, especially in the BPMN (Business Process Model and Notation) space. Check out our [BPMN Modeler for Confluence](https://marketplace.atlassian.com/apps/1236374/bpmn-modeler-for-confluence?hosting=cloud&tab=overview) and other projects here on GitHub.
 
-## TOPICS OF INTEREST
-We share a passion for technological and methodical expertise. Keeping up to date with the ever-changing world of IT, there are various opportunities to grow within viadee. 
+We are also highly active in the field of Data & AI, supporting our clients with expertise in data engineering, analytics, machine learning, and artificial intelligence. Our teams develop innovative solutions that turn data into actionable insights and enable organizations to make data-driven decisions.
 
-Bringing BPMN (business process model and notation) models to life is currently one of 
-our core activities. Prominent mention should be given to our Open Source contributions on GitHub, as well as our [Confluence BPMN-Modeler](https://www.viadee.de/en/solutions/business-process-management/bpmn-modeler) on the Atlassian Marketplace. Work often is organized in agile projects leveraging Java- or Cloud-based technologies, be it new technologies like Quarkus and Micronaut or Spring Boot, or established practices like WSDL or [REST](https://www.viadee.de/seminar/rest/). Java and SAS have accompanied us through almost all our company history and with most customers. However, we emphasize our undogmatic view on technologies and methods and use whatever is appropriate, such as Python and R in the [Data Science](https://www.viadee.de/data-science/) Domain. 
-To keep up with the scientific discussion we enjoy cooperation, both with ERCIS, and other research institutions.
+We also develop innovative tools like [Mateo](https://www.mateo-automation.com/), our open-source framework for test automation and RPA, supporting robust software quality across platforms.
 
-Test automation is great to ensure software quality. We feel it is even greater with a tool developed here called [Mateo](https://www.viadee.de/loesungen/testautomatisierung/mateo-core), the viadee test automation and RPA framework: An opportunity to create cross-platform integration tests, be it web-based, or on the level of an operating system. 
+Our research and development activities are driven by curiosity and collaboration—with universities, research institutes, and, most importantly, our own employees. Current focus areas include IT security, cloud architecture, process mining, agile leadership, ML Ops, and more.
 
-Areas of expertise and consulting products, such as these, are invented and supported like internal start-ups by using lean methods. 
-Employees contribute their topics of interest as part of our research and development activities. Right now, this is happening with IT Security, [Cloud Architecture](https://www.viadee.de/cloud), Process Mining, Agile Leadership, ML Ops, and several other topics.
+Curious about what we’re working on and researching? Our [viadee blog](https://www.viadee.de/blog/) offers deep dives into our projects, technical challenges, and innovative solutions across all our fields of expertise.
 
-## WHAT WE DO ON GITHUB
-Our R&D community and our students working on their thesis projects regularly publish their results in open source repositories here.   
-You will also find companion repositories for conference talks, online seminars etc.
+## viadee on GitHub
+Here you’ll find open source projects, research results, and resources from our R&D community and student collaborations. We also share code and materials from conference talks and online seminars.
 
-## JOB OPPORTUNITIES
-Interested in our topics and ready to take the next step? If you see yourself in a technical role, while being open and interested in the social components of everyday business life, we would love to welcome you on board.
+## Join Us
+Are you passionate about IT, eager to learn, and value authentic teamwork? Since most of our clients are based in Germany, fluent German is essential for all roles at viadee. We’re always looking for new colleagues in the following areas of expertise:
 
-IT-Consultants for
-*	Software Development
-*	Software / Cloud Architecture
-*	BI / Data Science
-* BPM and Process Automation 
+- BPM & Process Automation
+- Quality Engineering
+- Organizational Development
+- Software Development & Architecture
+- Project Management
+- Business Analysis
+- Data & AI
+- Cloud Architectures & Platforms
+- IT Security
 
-[![5-minute interview: Getting started @ viadee](http://img.youtube.com/vi/1LvibEa4oFI/0.jpg)](https://www.youtube.com/watch?v=1LvibEa4oFI "Getting started @ viadee")
-
-To find out about our benefits and further job listings make sure to visit our website www.viadee.de/karriere. 
-For a closer look at our field of interest, you are invited to follow along at [blog.viadee.de](https://blog.viadee.de) (mostly German) or [blog.viadee.de/en](https://blog.viadee.de/en) (selected articles, English only) – our blog to which every employee can contribute content. 
+Discover our benefits and current job openings at [viadee.de/karriere]([viadee.de/karriere](https://www.viadee.de/karriere/)).
